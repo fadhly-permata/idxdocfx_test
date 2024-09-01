@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Method WriteLog | Back End Documentations </title>
+      <meta name="viewport" content="width=device-width">
+      <meta name="title" content="Method WriteLog | Back End Documentations ">
+      <meta name="generator" content="docfx ">
+  
+      <link rel="shortcut icon" href="../../images/logo_idx-partners-mini-1.png">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/night-owl.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" integrity="sha384-EvBWSlnoFgZlXJvpzS+MAUEjvN7+gcCwH+qh7GRFOGgZO0PuwOFro7qPOJnLfe7l" crossorigin="anonymous">
+      <link rel="stylesheet" href="../../styles/config.css">
+      <link rel="stylesheet" href="../../styles/singulink.css">
+      <link rel="stylesheet" href="../../styles/main.css">
+      <meta property="docfx:navrel" content="../../toc.html">
+      <meta property="docfx:tocrel" content="toc.html">
+  
+  <meta property="docfx:rel" content="../../">
+  <meta property="docfx:newtab" content="true">
+    </head>
+    <body>
+        <!-- Header required for docfx anchor scroll to work -->
+        <header id="head"></header>
+        <div class="top-navbar">
+            <a class="burger-icon" onclick="toggleMenu()">
+                <svg name="Hamburger" style="vertical-align: middle;" width="34" height="34" viewbox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M20 6H4V9H20V6ZM4 10.999H20V13.999H4V10.999ZM4 15.999H20V18.999H4V15.999Z"></path></svg>
+            </a>
+
+
+            <a class="brand" href="../../index.html">
+              <img src="../../images/logo_idx-partners.png" alt="Documentations" class="logomark">
+              <span class="brand-title">Documentations</span>
+            </a>        </div>
+
+        <div class="body-content">
+            <div id="blackout" class="blackout" onclick="toggleMenu()"></div>
+
+            <nav id="sidebar" role="navigation">
+                <div class="sidebar">
+
+                    <div>
+                      <div class="mobile-hide">
+
+                        <a class="brand" href="../../index.html">
+                          <img src="../../images/logo_idx-partners.png" alt="Documentations" class="logomark">
+                          <span class="brand-title">Documentations</span>
+                        </a>                      </div>
+
+                      <div class="sidesearch">
+                        <form id="search" role="search" class="search">
+                            <i class="bi bi-search search-icon"></i>
+                            <input type="text" id="search-query" placeholder="Search" autocomplete="off">
+                        </form>
+                      </div>
+
+                      <div id="navbar">
+                      </div>
+                    </div>                    <div class="sidebar-item-separator"></div>
+
+                        <div id="sidetoggle">
+                          <div id="sidetoc"></div>
+                        </div>
+                </div>
+                <div class="footer">
+  <img src="data:image/png;base64,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" alt="Documentations" class="logomark">
+  
+                </div>            </nav>
+
+            <main class="main-panel">
+
+                <div id="search-results" style="display: none;">
+                  <h1 class="search-list">Search Results for <span></span></h1>
+                  <div class="sr-items">
+                    <p><i class="bi bi-hourglass-split index-loading"></i></p>
+                  </div>
+                  <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+                </div>
+ 
+
+                <div role="main" class="hide-when-search">
+
+                        <div class="subnav navbar navbar-default">
+                          <div class="container hide-when-search" id="breadcrumb">
+                            <ul class="breadcrumb">
+                              <li></li>
+                            </ul>
+                          </div>
+                        </div>
+
+                         <div id="contribution">
+                         </div>
+
+                    <article class="content wrap" id="_content" data-uid="IDX.Utilities.SystemLogging.WriteLog*">
+
+
+
+<h1 id="IDX_Utilities_SystemLogging_WriteLog_" data-uid="IDX.Utilities.SystemLogging.WriteLog*">Method WriteLog</h1>
+<div class="markdown level0 summary"></div>
+<div class="markdown level0 conceptual"></div>
+
+
+
+<a id="IDX_Utilities_SystemLogging_WriteLog_" data-uid="IDX.Utilities.SystemLogging.WriteLog*"></a>
+<h4 id="IDX_Utilities_SystemLogging_WriteLog_System_Exception_Microsoft_Extensions_Logging_LogLevel_" data-uid="IDX.Utilities.SystemLogging.WriteLog(System.Exception,Microsoft.Extensions.Logging.LogLevel)">WriteLog(Exception, LogLevel)</h4>
+<div class="markdown level1 summary"><p>Writes the log message for the given exception with the specified log level.</p>
+</div>
+<div class="markdown level1 conceptual"></div>
+<h5 class="declaration">Declaration</h5>
+<div class="codewrapper">
+  <pre><code class="lang-csharp hljs">public void WriteLog(Exception exception, LogLevel logLevel = LogLevel.Information)</code></pre>
+</div>
+<h5 class="parameters">Parameters</h5>
+<table class="table table-bordered table-condensed">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.exception">Exception</a></td>
+      <td><span class="parametername">exception</span></td>
+      <td><p>The exception to log.</p>
+</td>
+    </tr>
+    <tr>
+      <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/microsoft.extensions.logging.loglevel">LogLevel</a></td>
+      <td><span class="parametername">logLevel</span></td>
+      <td><p>The log level (default is Information).</p>
+</td>
+    </tr>
+  </tbody>
+</table>
+<h5 id="IDX_Utilities_SystemLogging_WriteLog_System_Exception_Microsoft_Extensions_Logging_LogLevel__examples">Examples</h5>
+<pre><code class="lang-csharp">var exception = new Exception("The operation failed.");
+var systemLogging = new SystemLogging("MyApp", "/var/log/myapp.log");
+systemLogging.WriteLog(exception);</code></pre>
+
+
+
+<a id="IDX_Utilities_SystemLogging_WriteLog_" data-uid="IDX.Utilities.SystemLogging.WriteLog*"></a>
+<h4 id="IDX_Utilities_SystemLogging_WriteLog_System_String_Microsoft_Extensions_Logging_LogLevel_" data-uid="IDX.Utilities.SystemLogging.WriteLog(System.String,Microsoft.Extensions.Logging.LogLevel)">WriteLog(string, LogLevel)</h4>
+<div class="markdown level1 summary"><p>Writes a log message with the specified log level.</p>
+</div>
+<div class="markdown level1 conceptual"></div>
+<h5 class="declaration">Declaration</h5>
+<div class="codewrapper">
+  <pre><code class="lang-csharp hljs">public void WriteLog(string message, LogLevel logLevel = LogLevel.Information)</code></pre>
+</div>
+<h5 class="parameters">Parameters</h5>
+<table class="table table-bordered table-condensed">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
+      <td><span class="parametername">message</span></td>
+      <td><p>The message to be logged.</p>
+</td>
+    </tr>
+    <tr>
+      <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/microsoft.extensions.logging.loglevel">LogLevel</a></td>
+      <td><span class="parametername">logLevel</span></td>
+      <td><p>The log level of the message (default is LogLevel.Information).</p>
+</td>
+    </tr>
+  </tbody>
+</table>
+<h5 id="IDX_Utilities_SystemLogging_WriteLog_System_String_Microsoft_Extensions_Logging_LogLevel__examples">Examples</h5>
+<pre><code class="lang-csharp">var systemLogging = new SystemLogging("MyApp", "/var/log/myapp.log");
+systemLogging.WriteLog("Hello World!");</code></pre>
+
+</article>
+                </div>
+
+                <div class="copyright-footer">
+                    <span>&#169; 2024. All Rights Reserved. ID/X Partners.</span>
+                </div>
+            </main>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+        <script type="text/javascript" src="../../styles/jquery.twbsPagination.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/jquery.mark.min.js"></script>
+        <script type="text/javascript" src="../../styles/url.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js"></script>
+        <script type="text/javascript" src="../../styles/docfx.js"></script>
+        <script type="text/javascript" src="../../styles/main.js"></script>
+        <script type="text/javascript" src="../../styles/singulink.js"></script>    </body>
+</html>

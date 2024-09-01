@@ -1,0 +1,1971 @@
+{
+  "source_base_path": "/media/fadhly/Data/DOCS/Research/DocFX",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Common.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Common.JsonFileReader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.ExecuteNonQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.Dispose.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.DisposeAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.-ctor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.IsConnected.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.ValidateQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.ExecuteQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.ExecuteScalar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.CouchBaseHelper.ConnectAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.PassName.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.JsonFilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.EncryptionSalts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.ConfigName.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConStringFromJson.EncryptionKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.DisposeAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Dispose.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteNonQueryAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.BsTableDataAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.BsTableData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.-ctor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Disconnect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.CommitAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Connect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ConnectAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ChangeDB.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ChangeDBAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Commit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteScalarAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Rollback.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.RollbackAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.Done.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.DoneAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteScalar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteNonQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.DisconnectAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.ExecuteQueryAsync.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.PgSqlHelper.DisposeAsyncCore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.DataProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackBTData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackBTData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteNonQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteNonQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteScalar-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackExecuteScalar-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackValidateQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CallbackValidateQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.CommonCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.CommonCallback.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Delegator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Delegator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.Decrypt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.Encrypt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.ChangeEncryptionKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.Dispose.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.-ctor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.Salts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.ChangeSalts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Encryptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Encryptor.EncryptionKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.SetDefault.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.AddAuthorization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.AsyncPost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.HttpClientExtensions.AsyncGet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.JObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.JObjectExtensions.GetValue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.JObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.JObjectExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToDateTime.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToDouble.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToDecimal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToInteger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.ObjectExtensions.CastToBoolean.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.StringCaseType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.StringCaseType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.PadLeftByChar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsValidUrl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.PadRightByChar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.Reverse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.TrimChars.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.Truncate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToEnum.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.Left.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.SplitTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.Repeat.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.GetNumericOnly.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.GetAlphaNumericOnly.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ChangeCase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsValidIPv4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsValidEmailAddress.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.CountOccurrences.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsAlpha.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsAlphaNumeric.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsDateTime.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsInteger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.Right.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.BindWith.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsValidRegex.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ConvertJsonStringAs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.IsNumeric.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToDecimal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToInt16.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToInt32.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToInt64.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.StringExtensions.ToBoolean.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.-ctor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.Add.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.Remove.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.Get.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.MemoryCacheService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.ChangeStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.ChangeMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.Message.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.ChangeData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.ChangeMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.Data.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.ChangeStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.ApiResponseData-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.API.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.BTOrderType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.BTOrderType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.Search.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.Sort.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.Order.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.Offset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.Limit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.Total.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.TotalNotFiltered.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.Rows.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.BTResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.BootstrapTable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.FromConnString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.MaxPoolSize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.MinPoolSize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Pooling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.IntegratedSecurity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Database.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Port.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Host.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Password.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CommonConnectionString.Username.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.Username.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.Password.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.Port.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.CouchBaseConnectionString.Host.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.SourceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.SourceType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.ExcludedSearchFields.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.Fields.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.WhereClause.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.Source.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.Schema.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.TargetName.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.SPParameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.PagingRequest.BTRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.Schema.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.SPName.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.Parameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPCallInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.Name.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.Value.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.DataType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.With.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.SPParameter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.PgSqlDataProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.-ctor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.With.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.SystemLogging.WriteLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.EnsureNotNullOrWhiteSpace.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.EnsureNotNull.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.EnsureFilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.Common.EnsureModel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.Validations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.Validations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/idc.utility/IDX.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/IDX.Utilities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/idc.utility/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/idc.utility/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/idc.utility/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image2vector.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/image2vector.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo_idx-partners-mini-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo_idx-partners-mini-1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo_idx-partners.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo_idx-partners.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "RestApi",
+      "source_relative_path": "restapi/petstore.swagger.json",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/petstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "restapi/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/toc.html"
+        },
+        ".json": {
+          "relative_path": "restapi/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
